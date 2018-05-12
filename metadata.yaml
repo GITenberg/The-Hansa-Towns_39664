@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1466
     wikipedia: http://en.wikipedia.org/wiki/Helen_Zimmern
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39664#The-Hansa-Towns
 gutenberg_issued: '2012-05-10'
 gutenberg_type: Text
 identifiers:
